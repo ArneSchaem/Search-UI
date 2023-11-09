@@ -26,6 +26,11 @@ html {
   display: flex;
   height: 100%;
 }
+.h-container {
+  width: 1440px;
+  height: 100%;
+  margin: 0 auto;
+}
 
 .box1 {
   display: flex;
@@ -681,3 +686,6 @@ input {
   line-height: 20px;
   letter-spacing: -0.05px;
 }
+
+
+
